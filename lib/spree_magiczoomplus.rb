@@ -1,5 +1,4 @@
 require 'spree_core'
-require 'spree_magiczoomplus_hooks'
 
 module SpreeMagiczoomplus
   class Engine < Rails::Engine
